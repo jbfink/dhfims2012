@@ -1,1 +1,7 @@
-{ "name": "My Preso", "sections": [ {"section":"one"} ]}
+{ "name": "Version Control for Libraries", 
+"sections": [ 
+ {"section":"01title"},
+ {"section":"02about_me"},
+ {"section":"03intro"},
+ 
+]}
