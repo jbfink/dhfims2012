@@ -1,17 +1,7 @@
 !SLIDE 
-# My Presentation #
+# Getting to Day 1: The Turbulent, Interesting Pre-History of a Digital Humanities Centre #
 
 !SLIDE
-# Who am I? #
-
-!SLIDE
-# Who are you? #
+# Getting to Day 1: The Turbulent Pre-History of a Digital Humanities Centre #
 
 
-
-!SLIDE bullets incremental
-# Bullet Points #
-
-* first point
-* second point
-* third point
