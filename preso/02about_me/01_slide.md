@@ -14,7 +14,5 @@
 ## Who are you? ##
 
 !SLIDE
-# A little bit about this presentation #
+# INTERRUPT ME #
 
-!SLIDE
-# A caveat. #
