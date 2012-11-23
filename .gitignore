@@ -11,6 +11,7 @@ spec/reports
 test/tmp
 test/version_tmp
 tmp
+preso/viewstats.json
 
 # YARD artifacts
 .yardoc
