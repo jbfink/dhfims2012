@@ -1,4 +1,4 @@
-dhfims2012
+"The Turbulent Pre-History of a Digital Humanities Centre"
 ==========
 
-My presentation to the DH FIMS symposium on November 29th, 2012
+Showoff (https://github.com/puppetlabs/showoff) slide deck of a talk I gave on November 29th, 2012 to the University of Western Ontario FIMS folks.
