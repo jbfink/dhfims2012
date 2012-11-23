@@ -6,6 +6,8 @@
 ## Digital Scholarship Librarian ##
 ## McMaster University ##
 
+.notes Go a little deeper on the bio for this. Indulge your inner JT, just a wee tad. Contextual stuff. Mention SJSU if you have to.
+
 !SLIDE 
 ## @adr ##
 ## http://github.com/jbfink ##
