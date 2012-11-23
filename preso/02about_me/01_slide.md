@@ -12,6 +12,8 @@
 ## @adr ##
 ## http://github.com/jbfink ##
 
+.notes Gauge some interest here. How many people tweet? Hopefully a lot. How many program? This will be important 'cos it is going to colour pretty much the rest of the speech. Make a note (during "interrupt"?) to please please please please ask people to stop you if you're going in weird/over the top directions especially wrt nerd-talk.
+
 !SLIDE
 ## Who are you? ##
 
