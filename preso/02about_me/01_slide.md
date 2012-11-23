@@ -6,7 +6,7 @@
 ## Digital Scholarship Librarian ##
 ## McMaster University ##
 
-.notes Go a little deeper on the bio for this. Indulge your inner JT, just a wee tad. Contextual stuff. Mention SJSU if you have to.
+.notes Go a little deeper on the bio for this. Indulge your inner JT, just a wee tad. Contextual stuff. Mention SJSU if you have to. Note that nothing like this happened when you were in library school because you went to a diploma mill hosued in a Quonset hut.
 
 !SLIDE 
 ## @adr ##
