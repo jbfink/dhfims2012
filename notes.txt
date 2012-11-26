@@ -4,3 +4,5 @@ add "what are our (scds) problems" section with
 a) staff
 b) mandate/sla/etc
 c) director
+
+"20% time" somewhere in there.
