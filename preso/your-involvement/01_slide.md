@@ -1,3 +1,6 @@
+!SLIDE 
+# THE FUTURE OF ACADEMIC LIBRARIES #
+
 !SLIDE incremental
 # How do *you* make this work? #
 
