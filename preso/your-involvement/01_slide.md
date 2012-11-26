@@ -9,6 +9,12 @@
 
 .notes Not to say that *you* don't. But one person can't. In order for this stuff to work, you need to prove you're in it for the long term. That means real, permanent staff, it means funding that is consistent from day to day, it means the understanding from Higher Powers that some projects will work and some won't, and it means having a space to work in.
 
+!SLIDE bullets incremental
+# REALIZE THAT OUR WORK #
+* ... is getting disrupted
+* ... is becoming less of a process
+* ... 
+ 
 !SLIDE
 # "Think like a startup" #
 
