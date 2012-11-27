@@ -20,6 +20,11 @@
 .notes push this one heavy. Nothing would make me gladder than to have this entire "Sage-on-the-stage" load of horsehockey devolve into a groovy unconference setup. Go through each person in the audience, thank them for showing up :) and ask them *why* they showed up to this. What's their motivation?
 
 !SLIDE
+# an apology #
+
+.notes Dude. I'm last. This sort of sucks. And I didn't see any of the previous speakers, which also sucks. So if I'm going over something that has been gone over what, five or six times before, oh please tell me. Please.
+
+!SLIDE
 # INTERRUPT ME #
 
 .notes oh yeah.
