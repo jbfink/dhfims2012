@@ -15,6 +15,8 @@
 !SLIDE bullets incremental
 # Why DH *in* libraries? #
 
+* Shifting collections
 * Neutral space
 * Access to infrastructure
 
+.notes Maybe space not so neutral. Note that collections/trad. stuff may be becoming *less* important but it doesn't mean *unimportant*. Talk about land grant schools. Space is *always* at a premium.
