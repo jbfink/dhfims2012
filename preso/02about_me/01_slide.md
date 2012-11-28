@@ -22,7 +22,7 @@
 !SLIDE
 # an apology #
 
-.notes Dude. I'm last. This sort of sucks. And I didn't see any of the previous speakers, which also sucks. So if I'm going over something that has been gone over what, five or six times before, oh please tell me. Please.
+.notes Dude. I'm last. This sort of sucks. And I didn't see any of the previous speakers, which also sucks. So if I'm going over something that has been gone over what, five or six times before, oh please tell me. Please. Also, my slides have no art in them. 
 
 !SLIDE
 # INTERRUPT ME #

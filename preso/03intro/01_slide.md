@@ -5,10 +5,11 @@
 
 !SLIDE bullets incremental
 
-* We're academics
+* We're academics, yet not academics.
 * We "get" dissemination
 * We've got interdisciplinarity baked-in
+* "alt-ac" before it was cool
 
-.notes Is that spelled correctly?
+.notes Is that spelled correctly? Academics/non -- we have this sort of benign rep in the greater academy that can work against us (sigh) and for us. In this case, mostly for, thankfully. When academics aren't thinking of us as book warehouses with wallets, they think of us as kindly people who like to collaborate, which is *exactly* yes. Ask if people know alt-ac. big thing nowadays.
 
 
