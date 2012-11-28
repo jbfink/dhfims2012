@@ -5,11 +5,16 @@
 
 !SLIDE bullets incremental
 
-* We're academics, yet not academics.
+* We're academics, yet not? 
 * We "get" dissemination
 * We've got interdisciplinarity baked-in
 * "alt-ac" before it was cool
 
-.notes Is that spelled correctly? Academics/non -- we have this sort of benign rep in the greater academy that can work against us (sigh) and for us. In this case, mostly for, thankfully. When academics aren't thinking of us as book warehouses with wallets, they think of us as kindly people who like to collaborate, which is *exactly* yes. Ask if people know alt-ac. big thing nowadays.
+.notes Is that spelled correctly? Academics/non -- we have this sort of benign rep in the greater academy that can work against us (sigh) and for us. In this case, mostly for, thankfully. When academics aren't thinking of us as book warehouses with wallets, they think of us as kindly people who like to collaborate, which is *exactly* yes. Ask if people know alt-ac. big thing nowadays. Talk up new notions of scholarly comm. 
 
+!SLIDE bullets incremental
+# Why DH *in* libraries? #
+
+* Neutral space
+* Access to infrastructure
 

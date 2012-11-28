@@ -6,7 +6,7 @@
 ## Digital Scholarship Librarian ##
 ## McMaster University ##
 
-.notes Go a little deeper on the bio for this. Indulge your inner JT, just a wee tad. Contextual stuff. Mention SJSU if you have to. Unix sysadmin before librarianship, note the beard.
+.notes Go a little deeper on the bio for this. Indulge your inner JT, just a wee tad. Contextual stuff. Mention SJSU if you have to. Unix sysadmin before librarianship, note the beard. Note that this talk might be somewhat different than the prior DH talks because you are not much of an academic.
 
 !SLIDE 
 ## @adr ##
@@ -17,7 +17,7 @@
 !SLIDE
 ## Who are you? ##
 
-.notes push this one heavy. Nothing would make me gladder than to have this entire "Sage-on-the-stage" load of horsehockey devolve into a groovy unconference setup. Go through each person in the audience, thank them for showing up :) and ask them *why* they showed up to this. What's their motivation? Any programmers? any interest in DH topics? What? anybody do Bill Turkel's lab?
+.notes Thank them for showing up!  Nothing would make me gladder than to have this entire "Sage-on-the-stage" load of horsehockey devolve into a groovy unconference setup. Go through each person in the audience, thank them for showing up :) and ask them *why* they showed up to this. What's their motivation? Any programmers? any interest in DH topics? What? anybody do Bill Turkel's lab?
 
 !SLIDE
 # an apology #
