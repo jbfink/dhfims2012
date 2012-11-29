@@ -11,11 +11,6 @@
 
 .notes Ask if people know, then briefly explain Taylorism if needed. Many traditional library processes are built on scientific, discrete work blocks. e.g., 2 hour ref shift, weekly meetings, cataloguing. That can go out the window with DH.Projects (especially unfunded ones) can start and stop and in some cases the principal movers effectively vanish. 
 
-!SLIDE 
-# THE FUTURE OF ACADEMIC LIBRARIES #
-
-.notes hah, gotcha. I'm not going to talk about this, although if *you* want to talk about this I'm more than game to do so.
-
 !SLIDE bullets incremental
 # How do *you* make this work? #
 * you don't.
@@ -36,7 +31,3 @@
 !SLIDE bullets incremental
 
 
-!SLIDE center
-![img/coco.jpg](img/coco.jpg)
-
-.notes Fully cop to your privilege. You have had an *enormous* head start compared to most English/MLS people. So acknowledge that.
