@@ -12,10 +12,13 @@
 .notes Ask if people know, then briefly explain Taylorism if needed. Many traditional library processes are built on scientific, discrete work blocks. e.g., 2 hour ref shift, weekly meetings, cataloguing. That can go out the window with DH.Projects (especially unfunded ones) can start and stop and in some cases the principal movers effectively vanish. 
 
 !SLIDE bullets incremental
-# How do *you* make this work? #
-* you don't.
+# Why this is hard for librarians #
+* We're process driven
+* We love numbers
+* Organizationally conservative
 
-.notes Not to say that *you* don't. But one person can't. In order for this stuff to work, you need to prove you're in it for the long term. That means real, permanent staff, it means funding that is consistent from day to day, it means the understanding from Higher Powers that some projects will work and some won't, and it means having a space to work in.
+.notes X number of books. ARL rankings. Y number of reference transactions. Z number of librarians per FTE. on and on and on.
+
 
 !SLIDE bullets incremental
 # REALIZE THAT OUR WORK #
@@ -24,10 +27,5 @@
 * ... 
  
 !SLIDE
-# "Think like a startup" #
-
-.notes Go go go. Do do do. 
-
-!SLIDE bullets incremental
-
+# any questions? #
 
