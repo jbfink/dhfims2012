@@ -1,3 +1,16 @@
+!SLIDE bullets incremental
+# takeaways #
+
+!SLIDE 
+# structure matters #
+
+.notes Can help or hurt. SCDS was initially a personality-driven project, geared for *specific* people. That helped immensely initially, but we were really thrown for a loop when that was gone. viz, the time (years!) between the original (likely) academic head's departure and the acquisition of a new one.
+
+!SLIDE
+# Forget Taylorism #
+
+.notes Too many traditional library processes are built on scientific, discrete work blocks. e.g., 2 hour ref shift, weekly meetings, cataloguing. 
+
 !SLIDE 
 # THE FUTURE OF ACADEMIC LIBRARIES #
 
